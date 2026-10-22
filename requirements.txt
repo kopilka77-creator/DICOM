@@ -1,0 +1,8 @@
+PyQt5>=5.15
+pydicom>=2.3
+numpy>=1.20
+pynetdicom>=2.0
+python-gdcm
+pylibjpeg
+pylibjpeg-libjpeg
+pylibjpeg-openjpeg
